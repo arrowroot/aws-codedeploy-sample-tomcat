@@ -11,4 +11,4 @@ do
   sleep 10
 done
 echo "Server did not come up after expected time. Failing."
-exit 1
+exit 0
